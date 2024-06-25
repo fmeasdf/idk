@@ -1,4 +1,4 @@
-Flask==2.0.2
-fastai==2.5.3
-torch==1.10.0
-fastbook==0.0.18
+Flask
+fastai
+torch
+fastbook
